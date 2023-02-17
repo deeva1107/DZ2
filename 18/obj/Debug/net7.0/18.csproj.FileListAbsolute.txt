@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\dz2\18\bin\Debug\net7.0\18.exe
+C:\Users\Lenovo\Desktop\dz2\18\bin\Debug\net7.0\18.deps.json
+C:\Users\Lenovo\Desktop\dz2\18\bin\Debug\net7.0\18.runtimeconfig.json
+C:\Users\Lenovo\Desktop\dz2\18\bin\Debug\net7.0\18.dll
+C:\Users\Lenovo\Desktop\dz2\18\bin\Debug\net7.0\18.pdb
+C:\Users\Lenovo\Desktop\dz2\18\obj\Debug\net7.0\18.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\dz2\18\obj\Debug\net7.0\18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\dz2\18\obj\Debug\net7.0\18.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\dz2\18\obj\Debug\net7.0\18.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\dz2\18\obj\Debug\net7.0\18.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\dz2\18\obj\Debug\net7.0\18.dll
+C:\Users\Lenovo\Desktop\dz2\18\obj\Debug\net7.0\refint\18.dll
+C:\Users\Lenovo\Desktop\dz2\18\obj\Debug\net7.0\18.pdb
+C:\Users\Lenovo\Desktop\dz2\18\obj\Debug\net7.0\18.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\dz2\18\obj\Debug\net7.0\ref\18.dll
